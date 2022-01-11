@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE gorup SYSTEM "group.dtd">
+<gorup>
+  <student>
+    <firstName>dimitri</firstName>
+    <lastName>kurkin</lastName>
+    <groupNumber>IVT-92</groupNumber>
+    <subject>
+      <title>Math</title>
+      <mark>5</mark>
+    </subject>
+    <subject>
+      <title>OS</title>
+      <mark>5</mark>
+    </subject>
+    <avg>5.0</avg>
+  </student>
+  <student>
+    <firstName>who</firstName>
+    <lastName>xxx</lastName>
+    <groupNumber>IVT-92</groupNumber>
+    <subject>
+      <title>Programming</title>
+      <mark>2</mark>
+    </subject>
+    <subject>
+      <title>Math</title>
+      <mark>1</mark>
+    </subject>
+    <avg>1.0</avg>
+  </student>
+</gorup>
